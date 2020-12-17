@@ -1,0 +1,3 @@
+name: aks-services
+runtime: dotnet
+description: Simple definition of AKS sample services from microsoft docs

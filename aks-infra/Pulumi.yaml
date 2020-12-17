@@ -1,0 +1,3 @@
+name: aks-infra
+runtime: dotnet
+description: Simple AKS infrastructure
